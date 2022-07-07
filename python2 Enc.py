@@ -1,3 +1,3 @@
-from Enc import main
+from Enc_tqai.py import main
 
     main()
